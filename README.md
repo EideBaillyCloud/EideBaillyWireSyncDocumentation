@@ -12,8 +12,9 @@ The application provides an ability to map file settings and setup to a Cash Rec
 
 ## Documentation
 
-1. [WireSync Configuration](docs/wiresync-setup.md)
-2. [Field Mappings](docs/wiresync-field-mappings.md)
-3. [Imported File List](docs/wiresync-files.md)
-4. [Invoice Logs](docs/wiresync-invoice-log.md)
-5. [Importing Bank Transactions](docs/wiresync-import-transactions.md)
+1. [Eide Bailly SFTP Lockbox Function Installation](https://github.com/EideBaillyCloud/EideBaillySFTPLockboxDocumenation)
+2. [WireSync Configuration](docs/wiresync-setup.md)
+3. [Field Mappings](docs/wiresync-field-mappings.md)
+4. [Imported File List](docs/wiresync-files.md)
+5. [Invoice Logs](docs/wiresync-invoice-log.md)
+6. [Importing Bank Transactions](docs/wiresync-import-transactions.md)
